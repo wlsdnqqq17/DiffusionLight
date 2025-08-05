@@ -1,4 +1,4 @@
-name: diffusionlight
+name: dl121-311
 channels:
   - conda-forge
   - defaults
